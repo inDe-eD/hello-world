@@ -12,6 +12,7 @@ package helloworld2;
 public class HelloWorld2 {
 
     /**
+     * Prints "Hello World!" to the console.
      * @param args the command line arguments
      */
     public static void main(String[] args) {
